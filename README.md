@@ -1,6 +1,6 @@
 # Pig Game
 
-![](images/screenshot.jpg)
+![](screenshot.jpg)
 
 This is a solution to the Pig Game challenge on a JavaScript course.
 
