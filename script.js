@@ -1,27 +1,5 @@
 'use strict';
 
-// let firstPlayerScore = document.querySelector('#current--0');
-// let secondPlayerScore = document.querySelector('#current--1');
-// console.log(firstPlayerScore, secondPlayerScore);
-
-// function switchPlayers() {
-//   let rolledNumber = Math.trunc(Math.random() * 6) + 1;
-//   let current0 = document.querySelector('#current--0');
-//   let current1 = document.querySelector('#current--1');
-//   if (rolledNumber > 1) {
-//     current0.textContent = `${rolledNumber + Number(current0.textContent)} `;
-//     console.log(rolledNumber);
-//   } else if (rolledNumber === 1) {
-//     current0.textContent = 0;
-//     // current1.textContent = `${rolledNumber + Number(current1.textContent)} `;
-//     // console.log(rolledNumber);
-//   }
-// }
-
-// document.querySelector('.btn--roll').addEventListener('click', function () {
-//   switchPlayers();
-// });
-
 const player0El = document.querySelector('.player--0');
 const player1El = document.querySelector('.player--1');
 
